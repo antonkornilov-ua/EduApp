@@ -1,10 +1,10 @@
 import computerScienceImg from './../assets/ComputerScience.png';
-import history from './../assets/history.png'
-import language from './../assets/language.png'
-import math from './../assets/math.png'
-import philosophy from './../assets/philosophy.png';
-import psychology from './../assets/psychology.png';
-import science from './../assets/science.png';
+import history from './../assets/History.png'
+import language from './../assets/Language.png'
+import math from './../assets/Math.png'
+import philosophy from './../assets/Philosophy.png';
+import psychology from './../assets/Psychology.png';
+import science from './../assets/Science.png';
 
 
 
