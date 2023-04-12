@@ -7,7 +7,7 @@ import Maintenance from "../Pages/Maintenance";
 import ErrorPage from "../Pages/ErrorPage";
 
 
-export const routing = createBrowserRouter([
+const routing = createBrowserRouter([
     {
         path: '/',
         element: <AppLayout/>,
@@ -28,3 +28,4 @@ export const routing = createBrowserRouter([
         ]
     }
 ])
+export default routing
